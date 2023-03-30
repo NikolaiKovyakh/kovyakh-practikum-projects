@@ -1,1 +1,7 @@
-zsdfbgvbnmbnvgbcfvc
+## Проекты с Яндекс.Практикума
+| **Проект**            | **Описание**           | **Используемые библиотеки** |
+| :-------------------- | :--------------------- | :-------------------------- |
+| [**Исследование данных о продажах игр**](https://github.com/NikolaiKovyakh/yandex-practicum-projects/tree/main/Module_1_final_project) | Выявить определяющие успешность игры закономерности и наиболее перспективную консоль | *pandas, matplotlib.pyplot, seaborn* |
+| [**Восстановление золота из руды**](https://github.com/NikolaiKovyakh/yandex-practicum-projects/tree/main/Module_2_final_project) | Предсказать коэффициент восстановления золота из руды | *pandas, matplotlib.pyplot, seaborn, sklearn* |
+| [**Определение стоимости автомобилей**](https://github.com/NikolaiKovyakh/yandex-practicum-projects/tree/main/Module_3_boosting_project) | Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. Нужно построить модель для определения стоимости.  | *pandas, seaborn, sklearn, optuna, catboost, lightgbm, ydata_profiling* |
+| [**Проект для «Викишоп»**](https://github.com/NikolaiKovyakh/yandex-practicum-projects/tree/main/Module_3_boosting_project) | Интернет-магазин «Викишоп» запускает новый сервис, где пользователи могут редактировать и дополнять описания товаров. Нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.  | *pandas, seaborn, sklearn, optuna, catboost, lightgbm, ydata_profiling* |
